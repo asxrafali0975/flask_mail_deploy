@@ -1,3 +1,6 @@
 envv/
 /envv
-.envv
+.env
+.env
+__pycache__/
+/__pycache__
